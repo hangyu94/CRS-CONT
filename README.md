@@ -4,3 +4,8 @@
 
 *Codes and the encoder will be released soon!*
 
+## Requirements
+
+- Python >= 3.6
+- PyTorch >= 1.3.0
+- torchvision >= 0.4.1
