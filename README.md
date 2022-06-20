@@ -5,6 +5,7 @@ This is the official PyTorch implementation of our IEEE TIP 2022 paper:
 > **CRS-CONT: A Well-Trained General Encoder for Facial Expression Analysis**
 
 > Hangyu Li, Nannan Wang*, Xi Yang, Xinbo Gao 
+
 > *IEEE Transactions on Image Processing (IEEE TIP), 2022*
 
 *Codes and the encoder will be released soon!*
