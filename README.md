@@ -13,3 +13,8 @@ We test the codes in the following environments:
 - Python==3.6.9
 - PyTorch==1.3.0
 - Torchvision==0.4.1
+
+
+## Note
+
+If you have questions, please contact me via email (hangyuli.xidian@gmail.com).
