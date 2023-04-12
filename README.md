@@ -6,11 +6,9 @@ This is the official PyTorch implementation of our IEEE TIP 2022 paper:
 > Hangyu Li, Nannan Wang*, Xi Yang, Xinbo Gao        
 > *IEEE Transactions on Image Processing (IEEE TIP), 2022*
 
-*Codes and the encoder will be released soon!*
-
 ## Requirements
 
-We test the codes in the following environments, other versions may also be compatible:
+We test the codes in the following environments:
 
 - Python==3.6.9
 - PyTorch==1.3.0
